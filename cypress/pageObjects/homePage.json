@@ -1,0 +1,7 @@
+{
+    "selectingNewsSection":".main_menu > :nth-child(2) > a",
+    "SelectingNewsInHomePage":".container_sub_news_wrapper"
+}
+
+
+    
